@@ -39,8 +39,7 @@ The results will be displayed in the terminal and saved to a CSV file (`log_anal
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+This project is submitted as part of an internship assignment and does not have an official license.
 ---
 
 **VRV Security Python Intern Submission**
